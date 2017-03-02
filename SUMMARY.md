@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [BasicRouting](doc/doc/Express-BasicRouting.md)
-* [RoutingGuide](doc/doc/Express-RoutingGuide.md)
+* [BasicRouting](doc/Chapter1/Express-BasicRouting.md)
+* [RoutingGuide](doc/Chapter2/Express-RoutingGuide.md)
