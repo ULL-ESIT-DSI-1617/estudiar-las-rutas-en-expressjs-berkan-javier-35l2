@@ -21,7 +21,7 @@ Los manejadores de rutas pueden tener la forma de una función, una matriz de fu
 ## Métodos de respuesta
 Los métodos en el objeto de respuesta (res) de la tabla siguiente pueden enviar una respuesta al cliente y terminar el ciclo de solicitud/respuestas. Si ninguno de estos métodos se invoca desde un manejador de rutas, la solicitud de cliente se dejará colgada.
 
-![tableres](img/tableres.png)
+![tableres](../img/tableres.png)
 
 ## app.route()
 Puede crear manejadores de rutas encadenables para una vía de acceso de ruta utilizando app.route(). Como la vía de acceso se especifica en una única ubicación, la creación de rutas modulares es muy útil, al igual que la reducción de redundancia y errores tipográficos.
