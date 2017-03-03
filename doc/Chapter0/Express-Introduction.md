@@ -1,6 +1,6 @@
 # **Express**
 
-![expresjs](doc/img/expressjs.png)
+![expresjs](../img/expressjs.png)
 
 * **Aplicaciones web**
 
