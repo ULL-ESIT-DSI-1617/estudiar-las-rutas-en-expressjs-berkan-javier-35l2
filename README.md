@@ -1,5 +1,24 @@
 ## Instrucciones
 
+* Instalar dependencias
+```bash
+npm install 
+```
+
+* Ejecutar ejemplo básico 
+```bash
+gulp basic
+```
+* Ejecutar ejemplo router-level 
+```bash 
+gulp routerLevel
+```
+* Ejecutar ejemplo router-use 
+```bash 
+gulp routerUse
+```
+
+
 ## Enlaces
 
 * Enlace descripción de la práctica: https://casianorodriguezleon.gitbooks.io/ull-esit-1617/practicas/practicalearningrouting.html
